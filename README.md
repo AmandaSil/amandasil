@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Amandasil
 
-<!--
-**AmandaSil/amandasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **QA Sênior com foco em qualidade de software, automação de testes e boas práticas.**  
+💻 Experiência com testes Web, Mobile e API.  
+🚀 Apaixonada por agilidade, usabilidade, métricas e entrega de valor contínuo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Sobre mim
+
+- 🔍 Especialista em testes manuais e automatizados (Web/Mobile/API)
+- 🧪 Ferramentas: Cypress, Robot Framework, Appium, Postman, RestAssured
+- 🔄 Integração contínua: GitHub Actions, Jenkins, SonarQube
+- 📈 Foco em qualidade como cultura: testes exploratórios, usabilidade, TDD/BDD, métricas
+
+---
+
+## 🚧 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [portfolio-cypress](https://github.com/Amandasil/portfolio-cypress) | Automação de testes E2E com boas práticas | Cypress, Cucumber, GitHub Actions |
+| [robot-mobile-tests](https://github.com/Amandasil/robot-mobile-tests) | Testes mobile usando Robot Framework e Appium | Robot, Appium |
+| [testes-api-restassured](https://github.com/Amandasil/testes-api-restassured) | Testes automatizados de API | RestAssured, Java |
+| [test-templates](https://github.com/Amandasil/test-templates) | Modelos de estrutura para automação de testes | Cypress, JavaScript |
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [[linkedin.com/in/amandasil](https://www.linkedin.com/in/amandapatsilva/)]
+- E-mail: uaipaaty@gmail.com
