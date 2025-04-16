@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Amandasil
+# 👋 Olá! Eu sou Amanda Silva
 
 🎯 **QA Sênior com foco em qualidade de software, automação de testes e boas práticas.**  
 💻 Experiência com testes Web, Mobile e API.  
